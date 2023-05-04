@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://lion-client.vercel.app/" target="_blank">
     <img 
@@ -24,3 +25,6 @@ composer create-project lion/framework
 ## License
 
 The Lion-Framework is open-sourced software licensed under the [MIT License](https://github.com/Sleon4/Lion-Framework/blob/main/LICENSE).
+=======
+# carrito-back
+>>>>>>> e9d923edfd8277c2e4e31edb59ae7baaab49790b
